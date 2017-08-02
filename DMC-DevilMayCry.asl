@@ -22,7 +22,6 @@ init
 	}
 }
 
-
 isLoading
 {
 	return current.loading != 0;
